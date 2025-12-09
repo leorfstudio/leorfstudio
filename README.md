@@ -1,4 +1,4 @@
-### Hi there, I'm Fahad Latif 👋
+### Hi there, I'm Fahad (Leo) Latif 👋
 
 I am a **Tech Entrepreneur & Digital Architect** passionate about building scalable SaaS products and digital experiences that drive real revenue.
 
