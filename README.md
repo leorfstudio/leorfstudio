@@ -1,16 +1,35 @@
-## Hi there 👋
+### Hi there, I'm Fahad Latif 👋
 
-<!--
-**leorfstudio/leorfstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Tech Entrepreneur & Digital Architect** passionate about building scalable SaaS products and digital experiences that drive real revenue.
 
-Here are some ideas to get you started:
+Currently, I am focused on the intersection of **AI, Search (SEO/GEO), and Growth**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 What I'm Building
+
+#### 🚀 **[RankBetter.co](https://rankbetter.co/)**
+> *The Revenue-First SEO & GEO Platform.*
+I am building the next generation of search tools designed to help brands rank not just on Google, but on AI engines like **ChatGPT, Perplexity, and Gemini**.
+- **Focus:** Generative Engine Optimization (GEO), AI Search, Revenue Analytics.
+
+#### 🎨 **[RFStudio.co](https://rfstudio.co/)**
+> *Design, Pretotyping, & Growth as a Subscription.*
+Leading a team of digital gurus to help startups and enterprises launch faster and grow smarter.
+- **Focus:** Digital Experience, Product Design, Growth Intelligence.
+
+---
+
+### 🛠️ Tech Stack & Interests
+* **Core:** `SaaS Development` `Product Strategy` `AI Integration`
+* **Growth:** `Technical SEO` `GEO (Generative Engine Optimization)` `Conversion Rate Optimization`
+* **Tools:** `Next.js` `Node.js` `Python (AI/Data)` `PostgreSQL`
+
+---
+
+### 🤝 Let's Connect
+I'm always interested in discussing **AI Search trends**, **SaaS growth**, and **Digital Strategy**.
+
+[<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/fahad-latif-/)
+[<img src="https://img.shields.io/badge/RankBetter-Website-black?style=for-the-badge&logo=google-chrome">](https://rankbetter.co/)
+[<img src="https://img.shields.io/badge/RF_Studio-Website-purple?style=for-the-badge&logo=framer">](https://rfstudio.co/)
