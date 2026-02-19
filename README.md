@@ -31,5 +31,4 @@ Leading a team of digital gurus to help startups and enterprises launch faster a
 I'm always interested in discussing **AI Search trends**, **SaaS growth**, and **Digital Strategy**.
 
 [<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/fahad-latif-/)
-[<img src="https://img.shields.io/badge/RankBetter-Website-black?style=for-the-badge&logo=google-chrome">](https://rankbetter.co/)
-[<img src="https://img.shields.io/badge/RF_Studio-Website-purple?style=for-the-badge&logo=framer">](https://rfstudio.co/)
+
